@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoAuthoriser", "VideoAuthoriser\VideoAuthoriser.csproj", "{3ED24B3E-2A37-4FBD-99B6-387EC77F69E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoAuthoriser.Test", "VideoAuthoriser.Test\VideoAuthoriser.Test.csproj", "{DB21B57B-78E2-4192-8DFE-AFDCDC99398E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ED24B3E-2A37-4FBD-99B6-387EC77F69E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ED24B3E-2A37-4FBD-99B6-387EC77F69E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ED24B3E-2A37-4FBD-99B6-387EC77F69E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ED24B3E-2A37-4FBD-99B6-387EC77F69E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB21B57B-78E2-4192-8DFE-AFDCDC99398E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB21B57B-78E2-4192-8DFE-AFDCDC99398E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB21B57B-78E2-4192-8DFE-AFDCDC99398E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB21B57B-78E2-4192-8DFE-AFDCDC99398E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
